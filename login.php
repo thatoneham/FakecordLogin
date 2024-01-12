@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Register Page</title>
+    <title>Login Page</title>
     <style>
         body {
             font-family: 'Comfortaa', cursive;
